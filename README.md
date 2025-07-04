@@ -13,8 +13,8 @@
 
 🚀 Passionate about technology, programming, and AI innovation  
 💡 Focused on building smart and impactful mobile applications  
-📚 Always learning and growing in the fields of development & data  
-🛠️ Combining creativity, logic, and real-world problem solving
+📚 Constantly learning and improving in development and data science  
+🛠️ Blending creativity, logic, and real-world problem solving
 
 ---
 
@@ -45,26 +45,17 @@
 - 📱 Mobile App Development using Flutter & Firebase  
 - 🧠 Artificial Intelligence & Machine Learning  
 - 🔍 Data Analysis & Smart Decision Systems  
-- 🎨 UI/UX Design and Interactive User Interfaces  
-- 💬 API Integration and Backend Logic
+- 🎨 UI/UX Design and Interactive Interfaces  
+- 💬 API Integration and Backend Development
 
 ---
 
 ### 🌱 Currently Exploring
 
-- Deep learning & Natural Language Processing (NLP)  
-- Connecting AI with mobile front-end  
-- Real-world problem-solving with smart tech  
-- Final graduation-level AI projects
-
----
-
-### 📬 Contact Me
-
-<p>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+- Deep Learning and Computer Vision  
+- Connecting AI with mobile applications  
+- Real-world solutions using smart systems  
+- Graduation-level AI-powered projects
 
 ---
 
