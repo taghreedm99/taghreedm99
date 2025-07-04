@@ -1,8 +1,9 @@
-<!-- Visitor Counter -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Taghreed+M.;Tech+Enthusiast+%7C+Flutter+%7C+AI+Lover;Always+learning+and+building+awesome+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Taghreed+M.;Flutter+Dev+%7C+AI+Lover+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
+<!-- Visitor Counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/taghreedm/count.svg" alt="visitor count" />
 </p>
